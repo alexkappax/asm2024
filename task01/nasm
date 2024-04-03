@@ -1,0 +1,1 @@
+nasm -O0 -gstabs -F dwarf -f elf32 hello.s -l hello.l -o hello.o
